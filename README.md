@@ -1,6 +1,5 @@
-# ADB-Shell-Integration
-
---------
+ADB-Shell-Integration
+========
 
 A simple implementation of executing ADB shell commands directly from a Java Application. 
 
